@@ -4,4 +4,8 @@ class launchJava
   {
     // code 
   }
+ public void disp2()
+ {
+   // code 
+ }
 }
